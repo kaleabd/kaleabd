@@ -7,7 +7,7 @@ Fullstack Developer & Digital Artist
 * 🌍  I'm based in Ethiopia
 * 🖥️  See my portfolio at [here.](http://kaleabdereje.netlify.app)
 * ✉️  You can contact me at [Kaleabdereje94@gmail.com](mailto:Kaleabdereje94@gmail.com)
-* 🧠  I'm learning Next.js & Mysql
+* 🧠  I'm learning SvelteKit
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm secretly spider man... but don't tell anybody ;)
 
