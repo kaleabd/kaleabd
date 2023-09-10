@@ -12,55 +12,26 @@ I'm a passionate Full Stack Developer with expertise in the MERN/PERN stack. I h
 ## Skills
 
 I have a diverse skill set that includes:
-
 ### Programming Languages and Frameworks:
-- JavaScript ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-- TypeScript ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)
-- React ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
-- Redux ![Redux](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg)
-- Next.js ![Next.js](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg)
-- Node.js ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)
-- Svelte ![Svelte](https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg)
+- JavaScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
+- TypeScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40">
+- React <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40">
+- Redux <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40">
+- Next.js <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40">
+- Node.js <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40">
+- Svelte <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" width="40" height="40">
 
 ### Web Technologies:
-- HTML5 ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-- CSS3 ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
-- Sass ![Sass](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)
-- Tailwind CSS ![Tailwind CSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
+- HTML5 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40">
+- CSS3 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40">
+- Sass <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40">
+- Tailwind CSS <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40">
 
 ### Databases and Data Storage:
-- MongoDB ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)
-- MySQL ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
-- PostgreSQL ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)
+- MongoDB <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40">
+- MySQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40">
+- PostgreSQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40">
 
-### Version Control and Development Tools:
-- Git ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)
-- Docker ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)
-- Visual Studio Code ![VS Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg)
-
-### Design and Prototyping:
-- Adobe XD ![Adobe XD](https://cdn.worldvectorlogo.com/logos/adobe-xd.svg)
-- Figma ![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)
-- Photoshop ![Photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg)
-- Illustrator ![Illustrator](https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg)
-
-### Testing and Quality Assurance:
-- Jest ![Jest](https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg)
-- Postman ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
-
-### Operating Systems and Servers:
-- Linux ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
-- Nginx ![Nginx](https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg)
-
-### Hardware and IoT:
-- Arduino ![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)
-- Blender ![Blender](https://download.blender.org/branding/community/blender_community_badge_white.svg)
-
-### Charting and Visualization:
-- Chart.js ![Chart.js](https://www.chartjs.org/media/logo-title.svg)
-
-### Prototyping and Collaboration:
-- InVision ![InVision](https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg)
 
 
 
