@@ -1,7 +1,7 @@
 # Hi there! ![GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Kaleab Dereje
 
 
-I'm a passionate Full Stack Developer with expertise in the MERN stack. I have a deep love for TypeScript and enjoy using Tailwind CSS to create stunning UI/UX designs. Additionally, I'm an experienced UX researcher, and I'm always excited to work on projects that involve crafting exceptional user experiences.
+I'm a passionate Full Stack Developer with expertise in the MERN stack. I have a deep love for TypeScript and enjoy using Tailwind CSS to create stunning Websites. Additionally, I'm an experienced UX researcher, and I'm always excited to work on projects that involve crafting exceptional user experiences.
 
 - 🌍 Based in Ethiopia
 - 🌐 Check out my portfolio [here](http://kaleabdereje.netlify.app)
