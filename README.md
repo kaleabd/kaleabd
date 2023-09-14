@@ -3,8 +3,8 @@
 I'm a passionate Full Stack Developer with expertise in the MERN/PERN stack. I have a deep love for TypeScript and enjoy using Tailwind CSS to create stunning websites. Additionally, I'm an experienced UX researcher, and UI designer. I use Adobe XD and Figma for designing, ensuring exceptional user experiences.
 
 - 🌍 Based in Ethiopia
-- 🌐 Check out my portfolio [here](http://kaleabdereje.netlify.app)]
-- ✉️ Contact me at [Kaleabdereje94@gmail.com](mailto:Kaleabdereje94@gmail.com
+- 🌐 Check out my portfolio [here](http://kaleabdereje.netlify.app).
+- ✉️ Contact me at [Kaleabdereje94@gmail.com](mailto:Kaleabdereje94@gmail.com)
 - 🤝 Open to collaborating on interesting projects
 - ⚡ Fun fact: I'm secretly Spider-Man... but don't tell anybody 😉
 
