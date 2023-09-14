@@ -4,8 +4,7 @@ I'm a passionate Full Stack Developer with expertise in the MERN/PERN stack. I h
 
 - 🌍 Based in Ethiopia
 - 🌐 Check out my portfolio [here](http://kaleabdereje.netlify.app)
-- ✉️ Contact me at [Kaleabdereje94@gmail.com](mailto:Kaleabdereje94@gmail.com)
-- 🧠 Currently learning Next.js
+- ✉️ Contact me at [Kaleabdereje94@gmail.com](mailto:Kaleabdereje94@gmail.com
 - 🤝 Open to collaborating on interesting projects
 - ⚡ Fun fact: I'm secretly Spider-Man... but don't tell anybody 😉
 
